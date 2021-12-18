@@ -1,11 +1,11 @@
 Joined Github **8** years ago.
 
-Since then I pushed **3642** commits, opened **8** issues, submitted **1604** pull requests, received **0** stars across **13** personal projects and contributed to **48** public repositories.
+Since then I pushed **3647** commits, opened **8** issues, submitted **1606** pull requests, received **0** stars across **13** personal projects and contributed to **48** public repositories.
 
 Most used languages across my projects:
 
 ![Elixir](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%236e4a7e&message=Elixir%EF%B8%B137.2%25)
-![PHP](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%234F5D95&message=PHP%EF%B8%B130.8%25)
+![PHP](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%234F5D95&message=PHP%EF%B8%B130.9%25)
 ![TypeScript](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%232b7489&message=TypeScript%EF%B8%B120.7%25)
 ![JavaScript](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23f1e05a&message=JavaScript%EF%B8%B13.6%25)
 ![CSS](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23563d7c&message=CSS%EF%B8%B12.6%25)
