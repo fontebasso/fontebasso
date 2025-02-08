@@ -1,10 +1,10 @@
 Joined Github **11** years ago.
 
-Since then I pushed **9566** commits, opened **58** issues, submitted **4804** pull requests, received **6** stars across **17** personal projects and contributed to **74** public repositories.
+Since then I pushed **9571** commits, opened **58** issues, submitted **4806** pull requests, received **6** stars across **17** personal projects and contributed to **74** public repositories.
 
 Most used languages across my projects:
 
-![TypeScript](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%233178c6&message=TypeScript%EF%B8%B142.4%25)
+![TypeScript](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%233178c6&message=TypeScript%EF%B8%B142.3%25)
 ![Elixir](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%236e4a7e&message=Elixir%EF%B8%B124.1%25)
 ![PHP](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%234F5D95&message=PHP%EF%B8%B119.9%25)
 ![CSS](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23663399&message=CSS%EF%B8%B16.8%25)
