@@ -1,0 +1,31 @@
+name: Metrics
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  push:
+    branches: ["main"]
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.USER_TOKEN }}
+          filename: metrics.svg
+
+          base: header
+          config_timezone: America/Sao_Paulo
+
+          plugin_languages: yes
+          plugin_languages_ignored: >-
+            html, scss, dockerfile
+          plugin_languages_sections: most-used
+          plugin_languages_limit: 5
+
+          plugin_habits: yes
+          plugin_habits_charts: true
+          plugin_habits_trim: true
+
+          plugin_repositories: yes
